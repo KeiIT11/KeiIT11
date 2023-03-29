@@ -4,6 +4,9 @@
 
   [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=KeiIT11&peng=false)](https://github.com/evirunurm/github-stats)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeiIT11&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeiIT11&theme=monokai)
+
 <!--
 **KeiIT11/KeiIT11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
