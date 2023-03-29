@@ -3,7 +3,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeiIT11&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeiIT11&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeiIT11&theme=monokai)
-[![trophy](https://github-profile-trophy.vercel.app/?username=KeiIT11&theme=monokai&margin-w=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KeiIT11&theme=monokai&&column=5&margin-w=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
