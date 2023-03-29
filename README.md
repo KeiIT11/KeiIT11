@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-  [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=KeiIT11)](https://github.com/evirunurm/github-stats)
-
-  [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=KeiIT11&peng=false)](https://github.com/evirunurm/github-stats)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeiIT11&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeiIT11&theme=monokai)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KeiIT11&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
 
 <!--
 **KeiIT11/KeiIT11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
