@@ -1,10 +1,14 @@
-## Profile
-Hi there 👋. 
-- **Frontend Engineer**
-- favorite languages: Flutter, React, Solidity.
-- interested in: UI/UX and Blockchain.
+### Hi there 👋. 
+Hello! I'm KeiIT.
+- I'm **Frontend** Engineer and wanted to be a Fullstack!
+- 👨🏻‍💻 My favorite Languages: Flutter, React, Solidity.
+- 📚 I'm interested in UI/UX and Blockchain.
+- 🎮 I like Videogames. 
+-   (Solo Master Ranked Playter in ApexLegends😎
+- 🔤 I want to work America someday.
+-   So I'm learning English (TOEIC 840
 
-## Github stats. 
+### Github stats. 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeiIT11&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeiIT11&theme=monokai)
 [![trophy](https://github-profile-trophy.vercel.app/?username=KeiIT11&theme=monokai&row=1&column=6&margin-w=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
