@@ -1,12 +1,9 @@
 ### Hi there 👋. 
-Hello! I'm KeiIT.
-- I'm **Frontend** Engineer and wanted to be a Fullstack!
+Hello! I'm KeiIT. I'm **Frontend** Engineer and wanted to be a Fullstack!
 - 👨🏻‍💻 My favorite Languages: Flutter, React, Solidity.
 - 📚 I'm interested in UI/UX and Blockchain.
-- 🎮 I like Videogames. 
--   (Solo Master Ranked Playter in ApexLegends😎
-- 🔤 I want to work America someday.
--   So I'm learning English (TOEIC 840
+- 🎮 I like Videogames. Top3 percent of ApexLegends😎
+- 🔤 I'm learning English (TOEIC 840
 
 ### Github stats. 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeiIT11&theme=monokai)
