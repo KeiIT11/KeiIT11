@@ -1,5 +1,6 @@
 ### Hi there 👋. 
-Hello! I'm KeiIT. I'm **Frontend** Engineer now (wanna be a Fullstack
+Hi! I'm KeiIT.  
+I'm **Frontend** Engineer now (wanna be a Fullstack
 - 👨🏻‍💻 My favorite Languages: **Flutter**, React, Solidity.
 - 📚 I'm interested in **UI/UX** and **Blockchain**.
 - 🎮 I like Videogames. **Top3 percent** of ApexLegends😎
