@@ -1,4 +1,8 @@
-### Hi there 👋
+## Profile
+Hi there 👋
+I'm a **Frontend Engineer**
+favorite languages: Flutter, React, Solidity.
+I'm interested in UI/UX and Blockchain.
 
 ## Github stats. 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeiIT11&theme=monokai)
