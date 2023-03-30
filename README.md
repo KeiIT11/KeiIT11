@@ -1,38 +1,10 @@
 ### Hi there 👋
 
+##Github stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeiIT11&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeiIT11&theme=monokai)
 [![trophy](https://github-profile-trophy.vercel.app/?username=KeiIT11&theme=monokai&row=1&column=6&margin-w=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Reefのプレゼン動画 (youtube)](https://img.youtube.com/vi/pMXNUwuV7m4&ab_channel=keiit/0.jpg)](https://www.youtube.com/watch?v=pMXNUwuV7m4&ab_channel=keiit)
-[![video_about_reef](https://img.youtube.com/vi/pMXNUwuV7m4&ab_channel=keiit/0.jpg)](https://www.youtube.com/watch?v=pMXNUwuV7m4&ab_channel=keiit)
-<!-- 目次部分(リンクになるところ) -->
-1. [概要](#anchor1)
-1. [フロー](#anchor2)
-1. [詳細](#anchor3)
-
-〜〜〜〜〜中略〜〜〜〜〜
-
-<!-- リンク先(目次部分のリンクの飛び先) -->
-<a id="anchor1"></a>
-
-1. 概要
-
-〜〜〜〜〜中略〜〜〜〜〜
-
-<a id="anchor2"></a>
-
-1. フロー
-
-〜〜〜〜〜中略〜〜〜〜〜
-
-<a id="anchor3"></a>
-
-1. 詳細
-
-〜〜〜〜〜中略〜〜〜〜〜
-
-[![video_about_reef](https://img.youtube.com/vi/3afxXrv5Ru0&ab_channel=Nekooo%25E3%2580%2590Apex%25E7%25BF%25BB%25E8%25A8%25B3%25E3%2580%2591/0.jpg)](https://www.youtube.com/watch?v=3afxXrv5Ru0&ab_channel=Nekooo%25E3%2580%2590Apex%25E7%25BF%25BB%25E8%25A8%25B3%25E3%2580%2591)
 
 <!--
 **KeiIT11/KeiIT11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
