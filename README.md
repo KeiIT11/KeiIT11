@@ -31,6 +31,7 @@
 
 〜〜〜〜〜中略〜〜〜〜〜
 
+[![video_about_reef](https://img.youtube.com/vi/3afxXrv5Ru0&ab_channel=Nekooo%25E3%2580%2590Apex%25E7%25BF%25BB%25E8%25A8%25B3%25E3%2580%2591/0.jpg)](https://www.youtube.com/watch?v=3afxXrv5Ru0&ab_channel=Nekooo%25E3%2580%2590Apex%25E7%25BF%25BB%25E8%25A8%25B3%25E3%2580%2591)
 
 <!--
 **KeiIT11/KeiIT11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
