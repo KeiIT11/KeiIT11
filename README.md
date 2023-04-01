@@ -4,7 +4,7 @@ I'm a **Frontend** Engineer (wanna be a **Fullstack**
 - 👨🏻‍💻 My favorite Languages: **Flutter**, React, Solidity.
 - 📚 I'm interested in **UI/UX** and **Blockchain**.
 - 🎮 I like Videogames. (**Top3 percent** player of ApexLegends😎)
-- 🔤 I'm learning English to work abroad. (**TOEIC score 840/990**
+- 🔤 I'm learning English. (**TOEIC score 840/990**
 
 ### Github stats. 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeiIT11&theme=monokai)
